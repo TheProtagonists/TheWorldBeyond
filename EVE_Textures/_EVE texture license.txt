@@ -1,0 +1,19 @@
+The following textures are from Astronomer's Visual Pack created by themaster401 and Asternomer, and thus follow the CC 4.0 BY-NC-SA license.
+
+black
+clear
+detail1
+detail2
+detail3
+detailaurora
+eve1
+eve2
+duna1
+kerbin1
+kerbin2
+laythe1
+uvnoise1
+particle_NRM
+rgb
+rgb2
+rgb3
