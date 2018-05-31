@@ -1,3 +1,3 @@
 The Texture of TWB-VeryBigAntenna-25-1 is originally created by zzz, currently in public domain/WTFPL license.
 
-The Textures of TWB-VeryBigAntenna-25-2 and TWB-VeryBigAntenna-25-X are originally created by Eleusis La Arwall, under the CC BY-NC-SA license.
+The Textures of TWB-VeryBigAntenna-25-2 and TWB-VeryBigAntenna-25-X are originally created by Eleusis La Arwall, under the KSPI license (https://github.com/FractalUK/KSPInterstellar/blob/develop/FNPlugin/License.md).
