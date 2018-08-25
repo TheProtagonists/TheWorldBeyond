@@ -1,14 +1,16 @@
 v1.1 "Bridging Azure"
-2018
+2018-08-24
 ============================================================================================================================================================================
 
 +Dawn is now made "static" using the new period feature
 +3 new flags
++more loading screen tips
++made more references
 
+*compatible with Kopernicus 1.4.5-4, backport 1.3.1-13
 *moved the Dawn Cluster much closer to the sun (42Tm to the current 12Tm), and compressed the cluster by moving the stars roughly 10 times closer and shrinking their SOI by 10 times
 *adjusted the orbit of many objects in accordance of the change above
 *adjusted the antenna stats, reduced the smallest and largest antennas' range, increased all antenna's EC storage and EC usage
-*compatible with Kopernicus 1.4.5-4, backport 1.3.1-13
 *renamed Guardian to Sentry due to the name being already taken by AK
 *corrected the license on KSPI parts
 *adjusted asteroid spawn rates for all systems
