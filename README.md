@@ -40,9 +40,9 @@ The World Beyond is licensed under Creative Commons Attribution-NonCommercial-No
 
 ### Included licenses:
 
-* The Texture of TWB-VeryBigAntenna-25-1 is originally created by zzz, currently in public domain/WTFPL license.
+* The Texture and model of TWB-VeryBigAntenna-25-1 is originally created by zzz, currently in public domain/WTFPL license.
 
-* The Textures of TWB-VeryBigAntenna-25-2 and TWB-VeryBigAntenna-25-X are created by Eleusis La Arwall, under the [KSPI license](https://github.com/FractalUK/KSPInterstellar/blob/develop/FNPlugin/License.md).
+* The Textures and models of TWB-VeryBigAntenna-25-2 and TWB-VeryBigAntenna-25-X are created by Eleusis La Arwall, under the [KSPI license](https://github.com/FractalUK/KSPInterstellar/blob/develop/FNPlugin/License.md).
 
 * Some cloud and noise textures in *EVE_Textures* are created by themaster401 and Asternomer, in Astronomer's Visual Pack, under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC 4.0 BY-NC-SA) license.
 
