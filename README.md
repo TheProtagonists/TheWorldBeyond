@@ -1,7 +1,7 @@
 # TheWorldBeyond
 
-![LatestRelease](https://img.shields.io/github/release/TheProtagonists/TheWorldBeyond.svg?style=for-the-badge)
-![TotalDownloads](https://img.shields.io/github/downloads/TheProtagonists/TheWorldBeyond/total.svg?style=for-the-badge)
+![LatestRelease](https://img.shields.io/github/release/TheProtagonists/TheWorldBeyond.svg?style=for-the-badge&label=Latest+Release&colorA=222222&colorB=00b2ff)
+![TotalDownloads](https://img.shields.io/github/downloads/TheProtagonists/TheWorldBeyond/total.svg?style=for-the-badge&colorA=222222&colorB=00b2ff)
 
 The World Beyond is a Kopernicus based Kerbal Space Program star system mod that currently adds 100 celestial bodies into a cluster of 6 star systems while preserving the stock system. 
 
