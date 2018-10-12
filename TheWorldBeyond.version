@@ -1,0 +1,31 @@
+{
+	"NAME": "<b><color=#00B2FF>The World Beyond - Core</color></b>",
+	"URL": "http://ksp-avc.cybutek.net/version.php?id=589",
+	"DOWNLOAD": "https://github.com/TheProtagonists/TheWorldBeyond/releases/latest",
+	"CHANGE_LOG_URL": "https://github.com/TheProtagonists/TheWorldBeyond/blob/master/changelog.txt",
+	"VERSION":
+	{
+		"MAJOR": 1,
+		"MINOR": 1,
+		"PATCH": 0,
+		"BUILD": 0
+	},
+	"KSP_VERSION":
+	{
+		"MAJOR": 1,
+		"MINOR": 4,
+		"PATCH": 5
+	},
+	"KSP_VERSION_MIN":
+	{
+		"MAJOR": 1,
+		"MINOR": 3,
+		"PATCH": 1
+	},
+	"KSP_VERSION_MAX":
+	{
+		"MAJOR": 1,
+		"MINOR": 4,
+		"PATCH": 5
+	}
+}
