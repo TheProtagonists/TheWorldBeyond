@@ -17,9 +17,9 @@ The World Beyond is a Kopernicus based Kerbal Space Program star system mod that
 
 1. Download and install the latest version of [Koperincus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version should match your KSP version (1.4.5-* or 1.3.1-*).
 
-2. Download and install the latest version of [Community Terrain Texture Pack](https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases)
+2. Download and install the latest version of [Community Terrain Texture Pack](https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases).
 
-3. Download the latest version of TWB_Core, install it by copying the extracted TheWorldBeyond folder into your GameData folder.
+3. Download the latest version of [TWB_Core](https://github.com/TheProtagonists/TheWorldBeyond/releases/latest), install it by copying the extracted TheWorldBeyond folder into your GameData folder.
 
 4. Download the system packs the system packs you want to use, as listed in the latest release, and install them one by one by copying the extracted TheWorldBeyond folders into your GameData folder.
 
