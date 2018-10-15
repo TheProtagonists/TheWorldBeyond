@@ -23,17 +23,19 @@ The World Beyond is a Kopernicus based Kerbal Space Program star system mod that
 
 4. Download the system packs the system packs you want to use, as listed in the latest release, and install them one by one by copying the extracted TheWorldBeyond folders into your GameData folder.
 
-5. Launch the game and verify your install.
+5. Launch the game in 64 bit and verify your install.
 
 ## (Optional) Visuals Installation
 
-1. Download and install the latest versions of both EnviromentVisualEnhacements and scatterer.
+Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmospheric hazes on the celestial bodies, you will need to install the visual packs. To see if your visual is installed correctly, make sure to check the planets in map view as the current version of scatterer effects does not show in the tracking station.
+
+1. Download and install the latest versions of both EnviromentVisualEnhacements (EVE) and scatterer.
 
 2. Download the latest version of TWB_Visuals_Core, install it by copying the extracted TheWorldBeyond folder into your GameData folder.
 
 3. Download the matching visuals packs for the system packs have chosen, install them by copying the extracted TheWorldBeyond folders into your GameData folder.
 
-You can also install the entirity of The World Beyond with visual included by downloading the latest TWB_Full after installing Kopernicus and CTTP. If you do this, simply copy the extracted TheWorldBeyond folder into your GameData.
+**You can also install the entirity of The World Beyond with the visuals included by downloading the latest TWB_Full after installing Kopernicus, CTTP, EVE and scatterer. If you do this, simply copy the extracted TheWorldBeyond folder into your GameData.**
 
 ----
 
