@@ -15,7 +15,7 @@ The World Beyond is a Kopernicus based Kerbal Space Program star system mod that
 
 # Installation
 
-1. Download and install the latest version of [Koperincus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version should match your KSP version (1.4.5-* or 1.3.1-*).
+1. Download and install the latest version of [Koperincus](https://github.com/Kopernicus/Kopernicus/releases/). The Kopernicus version you install should match your KSP version (1.5.0 -\*, 1.4.5-\* or 1.3.1-*).
 
 2. Download and install the latest version of [Community Terrain Texture Pack](https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases).
 
