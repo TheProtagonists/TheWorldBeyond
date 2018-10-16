@@ -35,7 +35,7 @@ Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmos
 
 3. Download the matching visuals packs for the system packs have chosen, install them by copying the extracted TheWorldBeyond folders into your GameData folder.
 
-**You can also install the entirity of The World Beyond with the visuals included by downloading the latest TWB_Full after installing Kopernicus, CTTP, EVE and scatterer. If you do this, simply copy the extracted TheWorldBeyond folder into your GameData.**
+**You can also install the entirety of The World Beyond with the visuals included by downloading the latest TWB_Full after installing Kopernicus, CTTP, EVE and scatterer. If you do this, simply copy the extracted TheWorldBeyond folder into your GameData.**
 
 ----
 
