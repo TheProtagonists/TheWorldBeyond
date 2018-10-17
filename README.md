@@ -7,10 +7,6 @@ The World Beyond is a Kopernicus based Kerbal Space Program star system mod that
 
 ![](https://i.imgur.com/yO4kIGn.jpg)
 
-[TWB Release Thread](https://forum.kerbalspaceprogram.com/index.php?/topic/175432-*)
-
-[TWB Development Thread](https://forum.kerbalspaceprogram.com/index.php?/topic/167706-*)
-
 ----
 
 # Installation
@@ -27,7 +23,7 @@ The World Beyond is a Kopernicus based Kerbal Space Program star system mod that
 
 ## (Optional) Visuals Installation
 
-Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmospheric hazes on the celestial bodies, you will need to install the visual packs, all of which relies on the visual mod [EnviromentalVisualEnhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases) (EVE) and [scatterer](https://spacedock.info/mod/141/scatterer). To see if your visual is installed correctly, make sure to check the planets in map view as in the current version of scatterer, the effects do not show in the tracking station.
+Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmospheric hazes on the celestial bodies, you will need to install the visual packs, all of which relies on two 3rd party visual mods: [EnviromentalVisualEnhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases) (EVE) and [scatterer](https://spacedock.info/mod/141/scatterer). To see if your visual is installed correctly, make sure to check the planets in map view as in the current version of scatterer, the effects do not show in the tracking station.
 
 1. Download and install the latest versions of both EVE and scatterer.
 
@@ -39,11 +35,25 @@ Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmos
 
 ----
 
+# Links
+
+### [Changelog](https://github.com/TheProtagonists/TheWorldBeyond/blob/master/changelog.txt)
+
+### [TWB Release Thread](https://forum.kerbalspaceprogram.com/index.php?/topic/175432-*)
+
+Please visit the release thread for more screenshots, star system layouts, lists of supported mods, suggested mods and the compatibility with other planet/star system mods. If you need help regarding the mod, or if you wish to submit a bug report, please also leave a comment in this thread.
+
+### [TWB Development Thread](https://forum.kerbalspaceprogram.com/index.php?/topic/167706-*)
+
+This thread documents the development progress of the mod, and what is currently being worked on.
+
+----
+
 # Licenses
 
 The World Beyond is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC 4.0 BY-NC-ND).
 
-### Included licenses:
+## Included licenses:
 
 * The Texture and model of TWB-VeryBigAntenna-25-1 is originally created by zzz, currently in public domain/WTFPL license.
 
