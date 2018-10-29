@@ -13,7 +13,7 @@ v1.1.1 "Bridging Azure" Patch 1
 *corrected AVC version checking, removed version file for each system so now the entire TWB folder have only one central version file
 *adjusted and recolored the orbits of planets of Eon
 *disabled new shader on Oblivion's rings so it is much more visible
-*tilted Amaterasu's ring so it looks nicer
+*tilted Amaterasu's ring so it looks nicer, and tilted its moons' orbits
 *fixed numerous tpyos
 
 
