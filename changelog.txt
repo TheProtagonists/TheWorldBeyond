@@ -14,6 +14,7 @@ v1.1.1 "Bridging Azure" Patch 1
 *adjusted and recolored the orbits of planets of Eon
 *disabled new shader on Oblivion's rings so it is much more visible
 *tilted Amaterasu's ring so it looks nicer, and tilted its moons' orbits
+*further reduction to asteroid spawn rate for all systems
 *fixed numerous tpyos
 
 
