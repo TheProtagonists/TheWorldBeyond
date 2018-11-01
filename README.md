@@ -27,7 +27,7 @@ Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmos
 
 1. Download and install the latest versions of both EVE and scatterer.
 
-2. Download the latest version of TWB_Visuals_Core, install it by copying the extracted TheWorldBeyond folder into your GameData folder.
+2. Download the latest version of [TWB_Visuals_Core](https://github.com/TheProtagonists/TheWorldBeyond/releases/latest), install it by copying the extracted TheWorldBeyond folder into your GameData folder.
 
 3. Download the matching visuals packs for the system packs have chosen, install them by copying the extracted TheWorldBeyond folders into your GameData folder.
 
