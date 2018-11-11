@@ -16,9 +16,9 @@ The World Beyond is a Kopernicus based Kerbal Space Program star system mod that
 
 2. Download and install the latest version of [Community Terrain Texture Pack](https://github.com/Galileo88/Community-Terrain-Texture-Pack/releases).
 
-3. Download the latest version of [TWB_Core](https://github.com/TheProtagonists/TheWorldBeyond/releases/latest), install it by copying the extracted TheWorldBeyond folder into your GameData folder.
+3. Download the latest version of [TWB_Core](https://github.com/TheProtagonists/TheWorldBeyond/releases/latest), extract the downloaded zip file *(make sure to use Extract Here)* and copy the extracted TheWorldBeyond folder into your GameData folder.
 
-4. Download the system packs the system packs you want to use, as listed in the latest release, and install them one by one by copying the extracted TheWorldBeyond folders into your GameData folder.
+4. Download the system packs you want to use, as listed in the latest release, and install them one by one by copying the extracted TheWorldBeyond folders into your GameData folder. They should automatically merge into the same folder, and after this step, there should only be one folder named TheWorldBeyond in your GameData.
 
 5. Launch the game in 64 bit and verify your install.
 
@@ -28,9 +28,9 @@ Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmos
 
 1. Download and install the latest versions of both EVE and scatterer.
 
-2. Download the latest version of [TWB_Visuals_Core](https://github.com/TheProtagonists/TheWorldBeyond/releases/latest), install it by copying the extracted TheWorldBeyond folder into your GameData folder.
+2. Download the latest version of [TWB_Visuals_Core](https://github.com/TheProtagonists/TheWorldBeyond/releases/latest), extract the downloaded zip file *(make sure to use Extract Here)* and copy the extracted TheWorldBeyond folder into your GameData folder.
 
-3. Download the matching visuals packs for the system packs have chosen, install them by copying the extracted TheWorldBeyond folders into your GameData folder.
+3. Download the matching visuals packs for the system packs have chosen, once again, install them by copying the extracted TheWorldBeyond folders into your GameData folder. Again, they should also automatically merge into the same folder.
 
 **You can also install the entirety of The World Beyond with the visuals included by downloading the latest TWB_Full after installing Kopernicus, CTTP, EVE and scatterer. If you do this, simply copy the extracted TheWorldBeyond folder into your GameData.**
 
