@@ -4,7 +4,7 @@
 ![TotalDownloads](https://img.shields.io/github/downloads/TheProtagonists/TheWorldBeyond/total.svg?style=for-the-badge&colorA=222222&colorB=00b2ff)
 ![CKAN](https://img.shields.io/badge/CKAN-Indexed-8b16ff.svg?style=for-the-badge&colorA=222222)
 
-The World Beyond is a Kopernicus based Kerbal Space Program star system mod that currently adds 100 celestial bodies into a cluster of 6 star systems while preserving the stock system. TWB is also modular, allowing you to choose which part of the mod you wish to install and play with.
+The World Beyond is a Kopernicus based Kerbal Space Program star system mod that currently adds 100 celestial bodies into a cluster of 6 star systems while preserving the stock system. The World Beyond mod is modular, allowing you to choose which part of the mod you wish to install and play with.
 
 ![](https://i.imgur.com/yO4kIGn.jpg)
 
@@ -34,7 +34,7 @@ Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmos
 
 **You can also install the entirety of The World Beyond with the visuals included by downloading the latest TWB_Full after installing Kopernicus, CTTP, EVE and scatterer. If you do this, simply copy the extracted TheWorldBeyond folder into your GameData.**
 
-**Another way you can install the entirety of The World Beyond is by using [CKAN](https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*), whihc will automatically download the mod and its dependencies into your GameData.**
+**Another way you can install the entirety of The World Beyond is by using [CKAN](https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*), which will automatically download the mod and its dependencies into your GameData.**
 
 ----
 
