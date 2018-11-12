@@ -24,7 +24,7 @@ The World Beyond is a Kopernicus based Kerbal Space Program star system mod that
 
 ## (Optional) Visuals Installation
 
-Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmospheric hazes on the celestial bodies, you will need to install the visual packs, all of which relies on two 3rd party visual mods: [EnviromentalVisualEnhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases) (EVE) and [scatterer](https://spacedock.info/mod/141/scatterer). To see if your visual is installed correctly, make sure to check the planets in map view as in the current version of scatterer, the effects do not show in the tracking station.
+Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmospheric hazes on the celestial bodies, you will need to install the visual packs, all of which relies on two 3rd party visual mods: [EnviromentalVisualEnhancements](https://github.com/WazWaz/EnvironmentalVisualEnhancements/releases) (EVE) and [scatterer](https://github.com/LGhassen/Scatterer/releases). To see if your visual is installed correctly, make sure to check the planets in map view as in the current version of scatterer, the effects do not show in the tracking station.
 
 1. Download and install the latest versions of both EVE and scatterer.
 
