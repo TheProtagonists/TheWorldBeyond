@@ -36,6 +36,8 @@ Currently, if you want to see sun flares, auroras, clouds, ocean waves and atmos
 
 **Another way you can install the entirety of The World Beyond is by using [CKAN](https://forum.kerbalspaceprogram.com/index.php?/topic/154922-*), which will automatically download the mod and its dependencies into your GameData.**
 
+***At least 16GB of RAM is recommended if you want to run the entirety of TWB with all of the visuals.***
+
 ----
 
 # Links
